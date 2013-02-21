@@ -1,17 +1,25 @@
 Instructions to set up system to run CrossTheRiver
 
-To run the program, visit
+Linux:
+	Using apt, open a terminal and type
+	
+	'sudo apt-get install python-visual'
+	
+	After the libraries are downloaded and installed, run the 		program.
 
-	http://www.vpython.org/contents/download_windows.html
+	'python logic.py'
 
-First, download Python-2.7.2
+Windows:
+	Go to:
 
-Run and install this version of Python.
+	'http://www.vpython.org/contents/download_windows.html'
 
-Next, download vPython-Win-Py2.7-5.74
+	First, download Python-2.7.2
 
-It will install in the Python 2.7 directory, and programs using
+	Run and install this version of Python.
 
-from visual import *
+	Next, download vPython-Win-Py2.7-5.74
 
-should run successfully.
+	It will install in the Python 2.7 directory, 
+	
+	Run the program.
