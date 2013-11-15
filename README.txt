@@ -5,7 +5,7 @@ Linux:
 	
 	'sudo apt-get install python-visual'
 	
-	After the libraries are downloaded and installed, run the 		program.
+	After the libraries are downloaded and installed, run the program.
 
 	'python logic.py'
 	
