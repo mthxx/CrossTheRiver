@@ -8,6 +8,15 @@ Linux:
 	After the libraries are downloaded and installed, run the 		program.
 
 	'python logic.py'
+	
+Mac: 
+	Go to:
+	
+	http://vpython.org/contents/download_mac.html
+	
+	Download and install VPython-Mac-Py2.7-6.05
+	
+	Run the program from VIDLE
 
 Windows:
 	Go to:
